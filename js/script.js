@@ -14,6 +14,9 @@ $(window).load(function() {
 })
 
 $(document).ready(function() {
+
+        $('.dropdown-toggle').dropdown()
+        
 		//animated logo
 		$(".navbar-brand").hover(function () {
 			$(this).toggleClass("animated shake");
