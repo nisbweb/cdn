@@ -16,6 +16,10 @@ $(window).load(function() {
 $(document).ready(function() {
 
         $('.dropdown-toggle').dropdown()
+
+		$('.nav-tabs a').click(function(){
+			$(this).tab('show');
+		})
         
 		//animated logo
 		$(".navbar-brand").hover(function () {
@@ -68,12 +72,12 @@ $(document).ready(function() {
 			}
 		});
 		
-		//Subscribe
+		/*/Subscribe
 		new UIMorphingButton( document.querySelector( '.morph-button' ) );
 		// for demo purposes only
 		[].slice.call( document.querySelectorAll( 'form button' ) ).forEach( function( bttn ) { 
 			bttn.addEventListener( 'click', function( ev ) { ev.preventDefault(); } );
-		} );
+		} );/*/
 
 });
 
