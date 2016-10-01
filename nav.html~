@@ -14,22 +14,22 @@
 			<div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
 					
-					<li class="menuItem"><a href="/">Home</a></li>
-					<li class="menuItem"><a href="/about">About</a></li>
-					<li class="menuItem"><a href="/events">Events</a></li>
-					<li class="menuItem"><a href="/roadmap">Roadmap </a></li>
+					<li class="menuItem"><a href="index.html">Home</a></li>
+					<li class="menuItem"><a href="about.html">About</a></li>
+					<li class="menuItem"><a href="events.html">Events</a></li>
+					<li class="menuItem"><a href="roadmap.html">Roadmap </a></li>
                     <li class="menuitem dropdown">
                       <a id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         SIG
                         <span class="caret"></span>
                       </a>
                       <ul class="dropdown-menu" aria-labelledby="dLabel">
-                        <li class="menuItem"><a href="/wie">Women in Engineering</a></li>
-						<li class="menuItem"><a href="/cs">Computer Society</a></li>
-						<li class="menuItem"><a href="/fg">Focus Groups</a></li>
+                        <li class="menuItem"><a href="wie.html">Women in Engineering</a></li>
+						<li class="menuItem"><a href="cs.html">Computer Society</a></li>
+						<li class="menuItem"><a href="fg.html">Focus Groups</a></li>
                       </ul>
                     </li>
-					<li class="menuItem"><a href="/contact">Contact</a></li>
+					<li class="menuItem"><a href="contact.html">Contact</a></li>
 				</ul>
 			</div>
 		   
