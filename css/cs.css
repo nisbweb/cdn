@@ -31,6 +31,13 @@ ul.cslist {
 	margin-bottom: -5%; 
 }
 
+@media screen and (orientation: portrait) {
+ .cs-about {
+ 	margin-bottom: -25%;
+ }
+
+}
+
 .cs-events {
 	margin-top: 0;
 }
