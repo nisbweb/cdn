@@ -41,9 +41,9 @@
   animation: type2 8s steps(60, end);
 }
 
-span{
+/*span{
   animation: blink 1s infinite;
-}
+}*/
 
 @keyframes type{ 
   from { width: 0; } 
